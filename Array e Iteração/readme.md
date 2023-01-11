@@ -1,4 +1,4 @@
-<h3>**[].foreach()**</h3>
+##**[].foreach()**##
 <p>[].forEach(callback(itemAtual, index, array)) a função de callback é executada para cada item da array. Ela possui três argumentos, itemAtual (valor do item da array), index (index do valor na array) e array (array original).
 </p>
 
