@@ -17,7 +17,7 @@
 <p>[].every(), se todos os returns das iterações forem truthy, o método irá retornar true. Se pelo menos um for falsy, ele irá retornar false.
 </p>
 
-<h3><strong color="#ff0000">[].find()</strong><strong>[]findindex()</strong></h3>
+<h3><strong>[].find()</strong><strong>[]findindex()</strong></h3>
 <p>[].find(), retorna o valor atual da primeira iteração que retornar um valor truthy. Já o [].findIndex(), ao invés de retornar o valor, retorna o index deste valor na array.
 </p>
 
