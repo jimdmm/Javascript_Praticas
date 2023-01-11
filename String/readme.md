@@ -1,4 +1,4 @@
-<h3>str.<span style="color:red;">length</span></h3>
+<h3>str.<span color="red">length</span></h3>
 <p>Propriedade com o tal de caracteres da string</p>
 
 <h3>str.<span>charAt</span>(n)</h3>
