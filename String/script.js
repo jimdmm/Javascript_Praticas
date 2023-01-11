@@ -31,7 +31,7 @@ const transacoes = [
   if(item.descricao.slice(0, 4) === 'Taxa')
   taxaTotal += numeroLimpo
  })
- 
+ console.log(taxaTotal)
  // Retorne uma array com a lista abaixo
  const transportes = 'Carro;Avião;Trem;Ônibus;Bicicleta';
 
